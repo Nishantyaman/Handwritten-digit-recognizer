@@ -1,1 +1,1 @@
-# Handwritten digit recognizer using keras
+# Handwritten digit recognizer
